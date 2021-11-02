@@ -9,7 +9,7 @@
 
 ### Ajustes e melhorias
 
-O projeto ainda está concluído:
+O projeto já está concluído:
 
 - [x] Criação do HTML
 - [x] Criação do CSS
